@@ -8,6 +8,6 @@
 - 📝[Create a CV](create-a-cv.md)
 - 📃[CV Submission](cv-submission.md) 
 
-> Name: Anwill Jacobs
-> Student Number: 219423202
+> Name: Anwill Jacobs  
+> Student Number: 219423202 
 > Module: PRP372S
