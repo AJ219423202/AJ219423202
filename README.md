@@ -1,4 +1,4 @@
-## Welcome to My Digital Portfolio: A Showcase of My Work and Projects
+## Welcome to My Digital Portfolio
 
 ### 📂 Sections
 
