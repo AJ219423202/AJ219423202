@@ -9,5 +9,5 @@
 - 📃[CV Submission](cv-submission.md) 
 
 > Name: Anwill Jacobs  
-> Student Number: 219423202 
-> Module: PRP372S
+> Student Number: 219423202   
+> Module: PRP372S  
