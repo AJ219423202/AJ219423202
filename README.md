@@ -1,11 +1,12 @@
--Welcome to My Digital Portfolio: A Showcase of My Work and Projects
+## Welcome to My Digital Portfolio: A Showcase of My Work and Projects
 
--📂 Sections
--💻[Career Counselling]
--⚙️[Skills and Interests]
--🧠[Personality Assessment]
--📝[Create a CV]
--📃[CV Submission]
+### 📂 Sections
+
+- 💻[Career Counselling](career-counselling.md)
+- ⚙️[Skills and Interests](skills-and-interests.md)
+- 🧠[Personality Assessment](personality-assessment.md)
+- 📝[Create a CV](create-a-cv.md)
+- 📃[CV Submission](cv-submission.md) 
 
 >Name: Anwill Jacobs
 >Student Number: 219423202
