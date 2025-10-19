@@ -2,7 +2,7 @@
 
 ## 📄 Evidence 
 
-✅ **Personality Assessment** 
+✅ **Personality Assessment Module & Quiz** 
 
 I completed the Personality Assessment Module & Quiz to identify my dominant personality type and understand how it aligns with suitable career paths. This activity helped me recognize my natural preferences, strengths, and work style. 
 
