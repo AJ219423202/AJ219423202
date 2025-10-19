@@ -9,19 +9,11 @@ I completed the Create a CV Module & Quiz on how to create a professional CV tha
 
 **✅ CV Review Checklist**  
 
-After creating my CV, I completed a CV Review Checklist to ensure it met all professional standards.
-The checklist helped me evaluate my document in the following areas:  
+After creating my CV, I completed a CV Review Checklist to ensure it met all professional standards:
 
-✅ Correct spelling, grammar, and punctuation  
-✅ Clear and consistent formatting  
-✅ Accurate and up-to-date contact details  
-✅ Relevant skills and achievements highlighted  
-✅ Action verbs used in all experience descriptions  
-✅ CV length limited to one to two pages  
-✅ Proper alignment between education, experience, and job goals  
+[CV Review](https://github.com/AJ219423202/DigitalPortfolio1/blob/92520147112b402ca5d69dce811ce2e91f0a0e2d/File/219423202_CV_REVIEW.pdf)
 
 This review process helped me identify small areas for improvement and make final adjustments before submission.  
-
 
 **Key Learnings:**
 
