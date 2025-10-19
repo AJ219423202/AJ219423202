@@ -1,49 +1,41 @@
-# Skills and Interests
+# Skills and Interests  
+## Evidence 
+**Core Values Exercise**  
 
-## 📄 Evidence
+I completed a Core Values and Interests Assessment to identify what motivates and fulfills me in both my personal and professional life. This helped me understand how my values and interests influence the type of work environment and career path where I will thrive.  
 
-### ✅ 1. In-Class Skills and Interests Course
+<img width="320" height="325" alt="Screenshot 2025-10-19 153148" src="https://github.com/user-attachments/assets/afc27d6a-b366-4aed-a932-cf2cb240d084" />  
 
-I completed a classroom-based **Skills and Interests** module as part of the Work Readiness training. This course helped me assess my personal strengths, align them with career paths in ICT, and understand how to present them professionally.
 
-- 📄 [Skills and Interests](assets/Screenshot%202025-05-19%20231558.png)
+I also completed the Skills & Interests Quiz, which guided me in identifying my top strengths, transferable skills, and vocational interests. The quiz assessed areas such as problem-solving, teamwork, adaptability, and creativity.  
 
-### ✅ 2. LinkedIn Learning Certificates
+*My Key Findings*:  
 
-I completed the following LinkedIn Learning courses to enhance my technical and data management skills:
+- Top Core Values: Creativity, Freedom, and Challenge  
 
-- 📄 [HTML Essential Training Certificate](assets/documents/html-certificate.pdf)
-- 📄 [SQL Essential Training Certificate](assets/documents/sql-certificate.pdf)
+- Top Vocational Interests: Investigative, Artistic, and Social  
 
-These certificates demonstrate my commitment to continuous learning and development in web and database technologies.
+- Top Skills: Analytical thinking, adaptability, teamwork, and communication  
 
----
+These results align well with IT career paths such as Software Developer, UI/UX Designer, or System Analyst, which combine creativity with logical problem-solving and collaboration.  
 
-### ✅ 3. GitHub Projects
+## Reflection  
+*Situation*
+As I continue developing my career in IT, I wanted to gain clarity on which roles best match my personality, values, and skills. I realized that understanding my personal motivations is essential for long-term career satisfaction.
 
-Here are some of the coding projects I’ve developed to apply my knowledge:
+*Task*  
+My goal was to explore my core values, skills, and interests to help me make informed career choices and focus on areas that align with my strengths and passions.  
 
-- 💻 [FootPrint – HTML, CSS, JavaScript Project](https://github.com/zaid-xt/FootPrint)  
-  > A responsive website showcasing dynamic features built with HTML5, CSS3, and JavaScript.
+*Action*  
+I completed a Core Values Exercise to identify what is most important to me in life and work. Then, I took a Skills & Interests Quiz to highlight the tasks I enjoy and the abilities I excel at. I reflected on past achievements, moments of pride, and projects where I felt most engaged.  
 
-- ☕ [ADP3 Capstone Project – Java Repository](https://github.com/zaid-xt/ADP3_capstone_project)  
-  > A Java-based application structured using Domain-Driven Design (DDD).
+*Result*  
+Through these exercises, I discovered that I value creativity, independence, and problem-solving. My strengths in analytical thinking and teamwork are well-suited for dynamic roles in the ICT field.
+This self-awareness has helped me focus my career path toward areas that will bring both professional success and personal fulfillment.  
 
-- ⚙️ [Healthcare Management System – TypeScript Project](https://github.com/zaid-xt/HealthcareManagementSystem)
-  > A full-stack TypeScript project incorporating modular architecture, exception handling, and scalable backend logic.
+### References  
 
----
-
-## 💬 Reflection
-
-**Situation**:  
-I needed to solidify both my front-end and back-end development skills through real-world applications.
-
-**Task**:  
-My goal was to complete certified training and then practically apply that knowledge by building functional, well-structured software solutions.
-
-**Action**:  
-I completed two LinkedIn Learning courses and developed three repositories—each focusing on different languages and areas: front-end (HTML, CSS, JS), back-end with Java, and a scalable TypeScript-based management system.
-
-**Result**:  
-These projects reflect my technical versatility and growth
+- OpenLearn. (2023). Skills and Interests: Defining Core Values. Retrieved from https://www.open.edu/openlearn/
+- LinkedIn Learning. (2024). Identifying Your Strengths and Career Interests.
+- Steve Jobs Quote: “Your time is limited, so don’t waste it living someone else’s life.”
+- Confucius Quote: “Choose a career you love and you will never work a day in your life.”
