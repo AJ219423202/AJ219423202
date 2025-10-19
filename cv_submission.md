@@ -1,23 +1,20 @@
-# CV Submission
+# CV Submission  
 
-## 📄 Evidence
+## 📄 Evidence  
+This is the final version of my CV, developed using the skills and guidance from the CV creation module and checklist:  
 
-Here is the final version of my CV, compiled using the knowledge gained from the CV development module and checklist:
+📄 Download My CV
 
-📄 [Download My Final CV](assets/CV%20-%20Zaid%20Anwill.pdf)
+## 💬 Reflection  
 
----
+**Situation:**  
+I needed a professional CV that effectively showcases my skills, education, and experience for job or internship applications.  
 
-## 💬 Reflection
+**Task:**  
+My goal was to apply the knowledge from the CV workshop and lessons to create a strong, well-structured CV ready for submission.  
 
-**Situation**:  
-I needed a professional CV to represent my skills, education, and experience when applying for jobs or internships.
+**Action:**  
+I refined my CV using the checklist and feedback from the workshop, ensuring the content was tailored to highlight my ICT skills and achievements. I also focused on clean formatting and clear presentation.  
 
-**Task**:  
-The task was to apply what I learned from the in-class training and workshop to develop a high-quality CV ready for submission.
-
-**Action**:  
-I used the checklist and feedback from the workshop to refine my CV and make it more focused and impactful. I ensured the formatting was clean and the content was tailored to highlight my strengths in the ICT field.
-
-**Result**:  
-I created a polished and professional CV in PDF format that I can use confidently in job applications. It reflects my skills, experiences, and career goals, and is ready to be submitted to prospective employers.
+**Result:** 
+I produced a polished, professional CV in PDF format that accurately represents my skills, experience, and career goals. I can now confidently submit it to employers.  
