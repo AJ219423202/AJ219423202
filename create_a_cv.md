@@ -1,9 +1,9 @@
-# 📝 Topic 5: Create a CV
+# 📝 Create a CV
 ## 📄 Evidence
 
-**✅ Create a CV lesson**  
+**✅ Create a CV module**  
 
-I completed a lesson and quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
+I completed a module and quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
 
 **✅ Create a CV Quiz**  
 
