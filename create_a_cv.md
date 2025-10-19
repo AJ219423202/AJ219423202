@@ -1,7 +1,7 @@
 # 📝 Create a CV
 ## 📄 Evidence
 
-**✅ Create a CV**  
+**✅ Create a CV Module & Quiz**  
 
 I completed a module and quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
 
