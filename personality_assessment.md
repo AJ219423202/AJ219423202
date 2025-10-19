@@ -2,12 +2,11 @@
 
 ## 📄 Evidence 
 
-✅ **Personality Assessment Quiz** 
+✅ **Personality Assessment** 
+
+I completed the Personality Assessment Module & Quiz to identify my dominant personality type and understand how it aligns with suitable career paths. This activity helped me recognize my natural preferences, strengths, and work style. 
 
 <img width="383" height="330" alt="Screenshot 2025-10-19 155155" src="https://github.com/user-attachments/assets/97196642-fe3f-4921-b299-39edcbc4e98b" />
-
-
-I completed the Personality Assessment Quiz to identify my dominant personality type and understand how it aligns with suitable career paths. This activity helped me recognize my natural preferences, strengths, and work style. 
 
 **My Key Findings:**
 - Top Personality Types: Investigative, Artistic, and Social 
