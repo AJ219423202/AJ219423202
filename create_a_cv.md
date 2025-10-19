@@ -3,7 +3,7 @@
 
 **✅ Create a CV Module & Quiz**  
 
-I completed Create a CV Module & Quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
+I completed the Create a CV Module & Quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
 
 <img width="250" height="334" alt="Screenshot 2025-10-19 155248" src="https://github.com/user-attachments/assets/365c6573-1e6f-421a-b90e-d222f874c408" />  
 
