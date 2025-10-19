@@ -1,14 +1,11 @@
 # 💡Skills and Interests  
 ## 📄Evidence 
-✅**Core Values Exercise**  
+✅**Skills & Interest Module & Quiz**   
 
-I completed a Core Values and Interests Assessment to identify what motivates and fulfills me in both my personal and professional life. This helped me understand how my values and interests influence the type of work environment and career path where I will thrive.  
+I also completed the Skills & Interests Module and Quiz, which guided me in identifying my top strengths, transferable skills, and vocational interests. The quiz assessed areas such as problem-solving, teamwork, adaptability, and creativity.  
 
-✅**Skills & Interest Quiz**   
-  
 <img width="320" height="325" alt="Screenshot 2025-10-19 153148" src="https://github.com/user-attachments/assets/afc27d6a-b366-4aed-a932-cf2cb240d084" />    
 
-I also completed the Skills & Interests Quiz, which guided me in identifying my top strengths, transferable skills, and vocational interests. The quiz assessed areas such as problem-solving, teamwork, adaptability, and creativity.  
 
 **My Key Findings**:  
 
