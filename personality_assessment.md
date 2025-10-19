@@ -1,33 +1,35 @@
-# Personality Assessment
+🧩 # Personality Assessment 
+📄 ## Evidence 
+✅ **Personality Assessment Quiz** 
 
-## 📄 Evidence
+[Quiz](<img width="383" height="330" alt="Screenshot 2025-10-19 155155" src="https://github.com/user-attachments/assets/97196642-fe3f-4921-b299-39edcbc4e98b" />)
 
-### ✅ 1. Online Personality Assessment
 
-I completed a personality test using the a personality test platform, which identified my personality type and provided insights into how I work, communicate, and handle stress.
+I completed the Personality Assessment Quiz to identify my dominant personality type and understand how it aligns with suitable career paths. This activity helped me recognize my natural preferences, strengths, and work style. 
 
-- 📄[Personality Quiz Result](assets/Screenshot%202025-05-19%20232314.png)
+*My Key Findings:*
+- Top Personality Types: Investigative, Artistic, and Social 
+- Work Environment Preference: Flexible, innovative spaces that allow creativity, collaboration, and problem-solving. 
+- Matching Careers: Systems Analyst, UX/UI Designer, Software Developer, or ICT Trainer. 
+- These results show that I’m motivated by creativity and intellectual challenges and enjoy helping others through technology. 
 
----
+💬 ## Reflection
+🟣 *Situation*
+Before completing this assessment, I often focused only on technical skills when thinking about my career. I hadn’t fully considered how my personality influences my satisfaction and performance in the workplace. 
 
-### ✅ 2. In-Class Personality Assessment Course
+🟡 *Task* 
+My goal was to better understand my personality type and identify IT career paths that align with my natural strengths, interests, and values. 
 
-As part of our Work Readiness program, I participated in an in-class **Personality Assessment** module. This session helped me understand the application of personality types in the workplace, how to adapt in team environments, and how personality impacts career development.
+🔵 *Action* 
+I completed the Personality Assessment Quiz, which grouped my traits into the six Holland Code categories: Realistic, Investigative, Artistic, Social, Enterprising, and Conventional.
+I reflected on my results and explored different ICT careers that match my top traits—particularly those that involve creative problem-solving and teamwork. 
 
- - 📄 [Personality Report](assets/Screenshot%202025-05-19%20232037.png)
+🟢 *Result* 
+The results confirmed that I thrive in roles that require innovation, analysis, and collaboration. I now understand that aligning my career with my personality will improve my motivation, satisfaction, and performance at work.
+This insight will guide my future career decisions and help me target ICT roles that balance creativity and logic. 
 
----
-
-## 💬 Reflection
-
-**Situation**:  
-I was unsure how my personality traits would influence my career direction and performance in a team setting.
-
-**Task**:  
-I wanted to explore my personality type and reflect on how it could affect my communication style, team collaboration, and career choices.
-
-**Action**:  
-I completed an online assessment and took part in a classroom personality assessment module. I reviewed both sets of results, compared insights, and noted consistent patterns in areas like leadership, decision-making, and work environment preference.
-
-**Result**:  
-I gained a deeper understanding of my strengths and growth areas. I now use this awareness to work more effectively in team settings, communicate clearly, and pursue roles that align with my natural strengths.
+📚 ### References
+- Holland, J.L. (1997). Making Vocational Choices: A Theory of Vocational Personalities and Work Environments. 
+- OpenLearn. (2023). Personality and Career Matching. Retrieved from https://www.open.edu/openlearn/ 
+- Mhlongo, T. (2024). Career Development Lessons. 
+- Quote: “Your smile is your logo, your personality is your business card.” – Jay Danzie 
