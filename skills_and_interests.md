@@ -10,7 +10,7 @@ I completed a Core Values and Interests Assessment to identify what motivates an
 
 I also completed the Skills & Interests Quiz, which guided me in identifying my top strengths, transferable skills, and vocational interests. The quiz assessed areas such as problem-solving, teamwork, adaptability, and creativity.  
 
-*My Key Findings*:  
+**My Key Findings**:  
 
 - Top Core Values: Creativity, Freedom, and Challenge  
 - Top Vocational Interests: Investigative, Artistic, and Social  
@@ -20,16 +20,16 @@ These results align well with IT career paths such as Software Developer, UI/UX 
 
 ## 💬Reflection  
 
-*Situation*  
+**Situation:**  
 As I continue developing my career in IT, I wanted to gain clarity on which roles best match my personality, values, and skills. I realized that understanding my personal motivations is essential for long-term career satisfaction.  
 
-*Task*  
+**Task:**  
 My goal was to explore my core values, skills, and interests to help me make informed career choices and focus on areas that align with my strengths and passions.   
 
-*Action*  
+**Action:**  
 I completed a Core Values Exercise to identify what is most important to me in life and work. Then, I took a Skills & Interests Quiz to highlight the tasks I enjoy and the abilities I excel at. I reflected on past achievements, moments of pride, and projects where I felt most engaged.  
 
-*Result*  
+**Result:**  
 Through these exercises, I discovered that I value creativity, independence, and problem-solving. My strengths in analytical thinking and teamwork are well-suited for dynamic roles in the ICT field.
 This self-awareness has helped me focus my career path toward areas that will bring both professional success and personal fulfillment.  
 
