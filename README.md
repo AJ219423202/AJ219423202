@@ -1,5 +1,5 @@
 ## Welcome to My Digital Portfolio
-A Preview of My Work and Projects
+**A Preview of My Work and Projects Journey**
 
 
 ### 📂 Sections
