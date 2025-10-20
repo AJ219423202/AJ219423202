@@ -1,4 +1,4 @@
-# 💡Skills and Interests  
+# Skills and Interests  
 ## 📄Evidence 
 
 **Skills & Interest Module & Quiz**   
