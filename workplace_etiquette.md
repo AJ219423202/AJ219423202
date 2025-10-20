@@ -1,4 +1,4 @@
-# 🏢 Workplace Etiquette  
+# Workplace Etiquette  
 ## 📄 Evidence  
 
 **Workplace Etiquette Module & Quiz**  
