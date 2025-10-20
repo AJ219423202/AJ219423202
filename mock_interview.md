@@ -5,7 +5,7 @@
 
 I participated in a Mock Interview Assessment that simulated a professional job interview scenario. The activity allowed me to demonstrate interview etiquette, confident communication, and structured responses while receiving feedback on my overall performance and presentation.  
 
-[View/Download Mock Interview Video](https://github.com/AJ219423202/DigitalPortfolio2/blob/999245a748e8607a03eb420981648e92296f6742/Files/219423202_mock_interview.mp4)  
+[View/Download Mock Interview Video](https://github.com/AJ219423202/DigitalPortfolio1/blob/3f2fc05e1b8a9fab09e91f2969c294a3ad1e7c57/File/219423202_mock_interview%20(1).mp4)  
 
 ## 💬 Reflection  
 
