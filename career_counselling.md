@@ -1,6 +1,6 @@
 # Career Development  
 ## 📄Evidence  
-**✅Career Deveopment Module & Quiz**  
+**Career Deveopment Module & Quiz**  
 
 I completed an online Career Development Module and Quiz that helped me identify my strengths, values, and preferences related to the IT industry. The results guided me in understanding the types of work environments and roles that best align with my personality and professional goals.  
 
