@@ -1,19 +1,21 @@
-# 📝 Create a CV
+# Create a CV
 ## 📄 Evidence
 
-**✅ Create a CV Module & Quiz**  
+**1. Create a CV Module & Quiz**  
 
 I completed the Create a CV Module & Quiz on how to create a professional CV that effectively markets my skills, education, and work experience to employers. The lesson highlighted the purpose of a CV, its key sections, formatting rules, and editing best practices.  
 
-<img width="250" height="334" alt="Screenshot 2025-10-19 155248" src="https://github.com/user-attachments/assets/365c6573-1e6f-421a-b90e-d222f874c408" />  
+[Create a CV ompletion](https://github.com/AJ219423202/DigitalPortfolio1/blob/561ee09935aa3b2ae711ecc724f64afbddf2d28d/File/CREATE_A_CV.png)  
 
-**✅ CV Review Checklist**  
 
-After creating my CV, I completed a CV Review Checklist to ensure it met all professional standards:
 
-[CV Review](https://github.com/AJ219423202/DigitalPortfolio1/blob/92520147112b402ca5d69dce811ce2e91f0a0e2d/File/219423202_CV_REVIEW.pdf)
+**2. CV Review Checklist**  
 
-This review process helped me identify small areas for improvement and make final adjustments before submission.  
+After creating my CV, I completed a CV Review Checklist to ensure it met all professional standards. This review process helped me identify small areas for improvement and make final adjustments before submission.  
+
+[CV Review Checklist](https://github.com/AJ219423202/DigitalPortfolio1/blob/92520147112b402ca5d69dce811ce2e91f0a0e2d/File/219423202_CV_REVIEW.pdf)
+
+
 
 **Key Learnings:**
 
