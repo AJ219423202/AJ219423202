@@ -1,10 +1,11 @@
 # 💡Skills and Interests  
 ## 📄Evidence 
-✅**Skills & Interest Module & Quiz**   
+
+**Skills & Interest Module & Quiz**   
 
 I also completed the Skills & Interests Module and Quiz, which guided me in identifying my top strengths, transferable skills, and vocational interests. The quiz assessed areas such as problem-solving, teamwork, adaptability, and creativity.  
 
-<img width="320" height="325" alt="Screenshot 2025-10-19 153148" src="https://github.com/user-attachments/assets/afc27d6a-b366-4aed-a932-cf2cb240d084" />    
+[Skills & Interest Completion](https://github.com/AJ219423202/DigitalPortfolio1/blob/7c4a65419b4a1ba7de88071874459d2b2024212d/File/SKILLS_AND_INTEREST.png)  
 
 
 **My Key Findings**:  
